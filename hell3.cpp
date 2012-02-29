@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+void hello()
+{
+  printf("hello\n");
+}
 int main()
 {
-  printf("hello3\n");
+  hello();
 }
