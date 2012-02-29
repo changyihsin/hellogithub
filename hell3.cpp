@@ -2,5 +2,5 @@
 
 int main()
 {
-  printf("conflict test\n");
+  printf("hello3\n");
 }
